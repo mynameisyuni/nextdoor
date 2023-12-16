@@ -1,0 +1,7 @@
+numpy == 1.24.3
+plotly == 5.9.0
+pandas == 1.5.3
+dash == 2.7.0
+geopandas == 0.14.0
+pydeck == 0.8.0
+matplotlib == 3.7.1
